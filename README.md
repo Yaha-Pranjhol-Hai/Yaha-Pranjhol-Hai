@@ -1,6 +1,6 @@
 ![Mario Coding](https://user-images.githubusercontent.com/105844448/214626316-af1b5198-c26c-4005-8bcf-711744e7b089.gif)
 <h1 align="center">Hi 👋, I'm Pranjal Jain</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">I am Front-end 👨🏻‍💻 Web Developer and I love to Think, Iterate, Cut, Copy and Paste the Code to squeeze as much learning as possible and apply it to create a better future.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/105844448/214631938-f957de6d-6fb5-4694-b428-136dba9a7cbf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahan-pranjhol-hai&label=Profile%20views&color=0e75b6&style=flat" alt="yahan-pranjhol-hai" /> </p>
