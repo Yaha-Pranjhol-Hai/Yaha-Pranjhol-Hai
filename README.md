@@ -3,6 +3,9 @@
 <h3 align="center">I am Front-end 👨🏻‍💻 Web Developer and I love to Think, Iterate, Cut, Copy and Paste the Code to squeeze as much learning as possible and apply it to create a better future.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/105844448/214631938-f957de6d-6fb5-4694-b428-136dba9a7cbf.gif">
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-jain-68848a225/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yaha_pranjhol_h) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahan-pranjhol-hai&label=Profile%20views&color=0e75b6&style=flat" alt="yahan-pranjhol-hai" /> </p>
 
 - 🌱 I’m currently learning **ReactJS Framework.**
