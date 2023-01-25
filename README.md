@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/105844448/214622912-0268f1dc-f278-4859-b547-d0d6a0b496d1.png)]
+![Mario Coding](https://user-images.githubusercontent.com/105844448/214626316-af1b5198-c26c-4005-8bcf-711744e7b089.gif)
 <h1 align="center">Hi 👋, I'm Pranjal Jain</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
