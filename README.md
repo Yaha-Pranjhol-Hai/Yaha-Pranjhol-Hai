@@ -1,6 +1,6 @@
 ![Mario Coding](https://user-images.githubusercontent.com/105844448/214626316-af1b5198-c26c-4005-8bcf-711744e7b089.gif)
 <h1 align="center">Hi 👋, I'm Pranjal Jain</h1>
-<h3 align="center">I am Full Stack 👨🏻‍💻 Web Developer and I love to Iterate the Code to squeeze as much learning as possible and apply it to create a better future.</h3>
+<h3 align="center">I am an Intermediate 👨🏻‍💻 Software Developer and I love to Iterate the Code to squeeze as much learning as possible and apply it to create a better future.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/105844448/214631938-f957de6d-6fb5-4694-b428-136dba9a7cbf.gif">
 
 ## 🌐 Socials:
@@ -9,9 +9,9 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-- 🌱 I’m currently learning **Django** and **NodeJS.**
+- 🌱 I’m currently learning **Rust** and **NodeJS.**
 
-- 💬 Ask me about **HTML, CSS and Javascript.**
+- 💬 Ask me about **Javascript.**
 
 - 📫 How to reach me **jainpranjal30112002@gmail.com**
 
