@@ -20,9 +20,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaha-pranjhol-hai&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaha-pranjhol-hai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# Repo Timeline ⏳
+# ⏳ Repo Timeline:
 ![Screenshot from 2024-09-11 15-35-46](https://github.com/user-attachments/assets/8edcd97f-cd30-495c-ac0f-365db4648174)
 
-# Friends Interaction Chart 🤝
+# 🤝 Friends Interaction Chart:
 ![image](https://github.com/user-attachments/assets/e7000d21-dfa5-4240-8314-0d34cc1c931d)
 
