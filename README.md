@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Javascript.**
 
-- 📫 How to reach me **jainpranjal30112002@gmail.com**
+- 📫 How to reach me **pranjal.jain.tech@gmail.com**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yaha-pranjhol-hai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
