@@ -26,7 +26,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🚀 About Me:
-- 🌱 I'm currently diving deep into **GraphQL** and **Kubernetes**
+- 🌱 I'm currently diving deep into **Docker**
 - 💡 Passionate about building scalable and efficient web applications
 - 💬 Ask me about **JavaScript, React, and Full-Stack Development**
 - 📫 Reach me at **pranjal.jain.tech@gmail.com**
